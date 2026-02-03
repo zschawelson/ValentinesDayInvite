@@ -1,0 +1,164 @@
+html {
+  background-color: rgb(28, 197, 56);
+}
+
+.words {
+  text-align: center;
+  font-size: 48px;
+  font-weight: normal;
+  font-family: "Lucida Handwriting";
+  color: rgb(220, 255, 241);
+}
+
+.words1 {
+  text-align: center;
+  font-size: 48px;
+  font-weight: normal;
+  font-family: "Brush Script MT";
+  color: rgb(220, 255, 241);
+}
+
+.words2 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: normal;
+  font-family: "Serif";
+  color: rgb(220, 255, 241);
+}
+
+.words3 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: normal;
+  font-family: "Serif";
+  color: rgb(22, 25, 216);
+}
+
+.words4 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: normal;
+  font-family: "Times New Roman";
+  color: rgb(45, 5, 110);
+}
+
+.words5 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: "Comic Sans MS";
+  color: rgb(87, 0, 250);
+}
+
+.image-container {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  margin: 0 10px;
+  /*transition: all 0.3s ease;*/
+}
+
+.yes-normal {
+  width: 150px;
+  height: 50px;
+  color: blue;
+  background-color: rgb(193, 246, 255);
+  font-size: 18px;
+  padding: 8px 16px;
+  border: 2px solid black;
+}
+
+.no-normal {
+  width: 150px;
+  height: 50px;
+  color: red;
+  background-color: rgb(236, 174, 255);
+  font-size: 18px;
+  border: 2px solid black;
+}
+
+.yes-big {
+  width: 175px;
+  height: 75px;
+  color: blue;
+  background-color: rgb(193, 246, 255);
+  font-size: 24px;
+  border: 4px solid black;
+}
+
+.no-small {
+  width: 125px;
+  height: 40px;
+  color: red;
+  background-color: rgb(236, 174, 255);
+  font-size: 18px;
+  border: 2px solid black;
+}
+
+.yes-bigger {
+  width: 200px;
+  height: 100px;
+  color: blue;
+  background-color: rgb(193, 246, 255);
+  font-size: 30px;
+  font-weight: bold;
+  border: 5px solid black;
+}
+
+.no-smaller {
+  width: 60px;
+  height: 40px;
+  color: red;
+  background-color: rgb(236, 174, 255);
+  font-size: 15px;
+  border: 2px solid black;
+}
+
+.yes-huge {
+  width: 300px;
+  height: 120px;
+  color: blue;
+  background-color: rgb(193, 246, 255);
+  font-size: 50px;
+  font-weight: bold;
+  border: 7px solid black;
+}
+
+.no-tiny {
+  width: 30px;
+  height: 20px;
+  color: red;
+  background-color: rgb(236, 174, 255);
+  font-size: 10px;
+  border: 1px solid black;
+}
+
+.yes-massive {
+  width: 500px;
+  height: 200px;
+  color: blue;
+  background-color: rgb(193, 246, 255);
+  font-size: 75px;
+  font-weight: bold;
+  border: 7px solid black;
+}
+
+.no-mini {
+  width: 10px;
+  height: 10px;
+  color: red;
+  background-color: rgb(236, 174, 255);
+  font-size: 5px;
+}
+
+#flipImage {
+  transition: opacity 0.3s ease;
+}
