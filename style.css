@@ -2,6 +2,12 @@ html {
   background-color: rgb(28, 197, 56);
 }
 
+p {
+  font-size: 40px;
+  text-align: center;
+  font-family: Serif;
+}
+
 .words {
   text-align: center;
   font-size: 48px;
@@ -162,3 +168,4 @@ button {
 #flipImage {
   transition: opacity 0.3s ease;
 }
+
